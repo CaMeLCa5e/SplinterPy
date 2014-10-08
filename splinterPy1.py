@@ -14,6 +14,6 @@ def do_login_if_need(self, username, password):
 
 
 	
-
-
-print 'After', i, 'attempts the captcha appeared!'
+if __name__ == "__main__":
+    unittest.main()
+    
