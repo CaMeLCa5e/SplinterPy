@@ -1,4 +1,0 @@
-SplinterPy
-==========
-
-Splinter Twitter Script
