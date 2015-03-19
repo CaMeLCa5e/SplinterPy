@@ -15,5 +15,5 @@ def do_login_if_need(self, username, password):
 
 	
 if __name__ == "__main__":
-    unittest.main()
+    print main 
     
